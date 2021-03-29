@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rechner</string>
+    <string name="resultBoxText">Result...</string>
+    <string name="save_to_history">Save to history</string>
+</resources>
